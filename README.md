@@ -8,9 +8,9 @@
 [markdown在线编辑器](https://stackedit.io/)
 ###语言类
 ####Python
-[廖雪峰python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
- [python china](http://python-china.org/)
- [分类Python](https://www.keakon.net/category/Python)
- [依云博客](http://blog.lilydjwg.me/tag/python)
- [python list](http://blog.lilydjwg.me/tag/python)
- [python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
+[廖雪峰python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)  
+[python china](http://python-china.org/)  
+[分类Python](https://www.keakon.net/category/Python)  
+[依云博客](http://blog.lilydjwg.me/tag/python)  
+[python list](http://blog.lilydjwg.me/tag/python)  
+[python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)  
