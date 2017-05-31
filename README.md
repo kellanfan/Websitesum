@@ -23,6 +23,4 @@ Python
 
 Linux
 ====
-[vamei博客](http://www.cnblogs.com/vamei/tag/Linux/)  `:wq
-
-
+[vamei博客](http://www.cnblogs.com/vamei/tag/Linux/)  
