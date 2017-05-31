@@ -20,3 +20,9 @@ Python
 [依云博客](http://blog.lilydjwg.me/tag/python)  
 [python list](http://blog.lilydjwg.me/tag/python)  
 [python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)  
+
+Linux
+====
+[vamei博客](http://www.cnblogs.com/vamei/tag/Linux/)  `:wq
+
+
