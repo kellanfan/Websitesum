@@ -24,3 +24,4 @@ Python
 Linux
 ====
 [vamei博客](http://www.cnblogs.com/vamei/tag/Linux/)  
+[命令查询](http://man.linuxde.net/)  
