@@ -20,8 +20,12 @@ Python
 [依云博客](http://blog.lilydjwg.me/tag/python)  
 [python list](http://blog.lilydjwg.me/tag/python)  
 [python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)  
-
+[菜鸟教程](http://www.runoob.com/)
 Linux
 ====
 [vamei博客](http://www.cnblogs.com/vamei/tag/Linux/)  
 [命令查询](http://man.linuxde.net/)  
+
+工具类
+====
+[菜鸟工具](https://c.runoob.com/)  
