@@ -12,8 +12,18 @@
 import urllib2, urllib, json
 import os, re
 import markdown
-if os.path.exists('./README.md'):
-    print "File exist"
+if not os.path.exists('./README.md'):
+    print "File not exist"
+
+header = {
+    'user-agent': ('Mozilla/5.0 (Windows NT 6.2; WOW64)'
+                   'AppleWebKit/537.36 (KHTML, like Gecko)'
+                   'Chrome/56.0.2924.87 Safari/537.36'),
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Connection': 'keep-alive'
+}
+
+
 
 def test(url):
     page = urllib2.urlopen(url)
