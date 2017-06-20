@@ -5,7 +5,7 @@
 # Created Time : Tue 20 Jun 2017 09:14:50 PM CST
 
 # File Name: checkwebsite.py
-# Description:
+# Description: Check if the web site in the README file is properly accessed
 
 """
 
