@@ -30,4 +30,7 @@ Linux
 工具类
 ====
 [菜鸟工具](https://c.runoob.com/)  
+
+测试脚本用的URL，请忽略
+====
 [bad site 1](http://www.asdcasde.com)  
