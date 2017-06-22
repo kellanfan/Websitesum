@@ -31,6 +31,19 @@ Linux
 ====
 [菜鸟工具](https://c.runoob.com/)  
 
+服务
+====
+[ansible](http://www.ansible.com.cn/)
+[zabbix](https://www.zabbix.com/documentation/3.0/start)
+
+网络
+====
+[RFC中文文档](http://man.chinaunix.net/develop/rfc/RFC4.txt)  
+
+虚拟化/容器
+====
+[Docker社区](http://dockone.io/)  
+
 测试脚本用的URL，请忽略
 ====
 [bad site 1](http://www.asdcasde.com)  
