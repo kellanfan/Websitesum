@@ -33,8 +33,11 @@ Linux
 [网络计算器](http://www.atool.org/network.php)
 服务
 ====
-[ansible](http://www.ansible.com.cn/)
-[zabbix](https://www.zabbix.com/documentation/3.0/start)
+[ansible](http://www.ansible.com.cn/)  
+[zabbix](https://www.zabbix.com/documentation/3.0/start)  
+[redis](http://www.redis.cn/documentation.html)  
+[haproxy](http://www.haproxy.org/download/1.7/doc/configuration.txt)  
+[nginx](http://nginx.org/en/docs/)
 
 网络
 ====
