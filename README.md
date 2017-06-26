@@ -18,7 +18,6 @@ Python
 [python china](http://python-china.org)  
 [分类Python](https://www.keakon.net/category/Python)  
 [依云博客](http://blog.lilydjwg.me/tag/python)  
-[python list](http://blog.lilydjwg.me/tag/python)  
 [python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)  
 [菜鸟教程](http://www.runoob.com/)  
 
