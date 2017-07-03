@@ -34,6 +34,7 @@ Linux
 服务
 ====
 [ansible](http://www.ansible.com.cn/)  
+[ansible实例](https://galaxy.ansible.com/list)  
 [zabbix](https://www.zabbix.com/documentation/3.0/start)  
 [redis](http://www.redis.cn/documentation.html)  
 [haproxy](http://www.haproxy.org/download/1.7/doc/configuration.txt)  
@@ -47,6 +48,4 @@ Linux
 ====
 [Docker社区](http://dockone.io/)  
 
-测试脚本用的URL，请忽略
-====
-[bad site 1](http://www.asdcasde.com)  
+
