@@ -14,6 +14,7 @@ markdown
 ====  
 Python  
 ======
+[Python官方文档](https://docs.python.org/2/library/index.html)  
 [廖雪峰python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)  
 [python china](http://python-china.org)  
 [分类Python](https://www.keakon.net/category/Python)  
