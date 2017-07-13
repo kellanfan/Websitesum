@@ -26,6 +26,8 @@ Linux
 ====
 [vamei博客](http://www.cnblogs.com/vamei/tag/Linux/)  
 [命令查询](http://man.linuxde.net/)  
+[正则表达式](http://deerchao.net/tutorials/regex/regex.htm)  
+[RPM search](http://rpm.pbone.net/)  
 
 工具类
 ====
