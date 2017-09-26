@@ -50,6 +50,8 @@ Linux
 虚拟化/容器
 ====
 [Docker社区](http://dockone.io/)  
-
+[Docker中文社区](http://www.docker.org.cn)  
+[Docker从入门到实践](http://dockerpool.com/static/books/docker_practice/index.html)
+[Docker中文指南](http://www.widuu.com/chinese_docker/index.html)
 博客主题
 [next](http://theme-next.iissnan.com/)  
