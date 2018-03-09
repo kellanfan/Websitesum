@@ -55,3 +55,6 @@ Linux
 [Docker中文指南](http://www.widuu.com/chinese_docker/index.html)
 博客主题
 [next](http://theme-next.iissnan.com/)  
+
+技术文章
+[mysql数据库原理](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649697103&idx=1&sn=7fe66590707decbdb0d30570d9f08a4f&chksm=8893142cbfe49d3a1ac63c13be50ca7c90b4e77bea80dc7eaf1ede6ca7ea7220144d523c2515&mpshare=1&scene=24&srcid=0306cIymbdhyDDycurXR4eeu#rd)
