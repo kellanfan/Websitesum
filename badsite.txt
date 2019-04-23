@@ -1,0 +1,6 @@
+[
+    "http://python-china.org",
+    "http://www.haproxy.org/download/1.7/doc/configuration.txt",
+    "http://man.chinaunix.net/develop/rfc/RFC4.txt",
+    "https://www.teamviewer.com/zhtw/download/previous-versions/"
+]
