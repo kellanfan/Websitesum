@@ -73,6 +73,8 @@
 * [xpath教程](http://www.w3school.com.cn/xpath/index.asp)
 * [Hadoop文档](http://hadoop.apache.org/docs/r1.0.4/cn/index.html)
 * [postgresql中文社区](http://www.postgres.cn/index.php/v2/home)
+* [Fabric](https://fabric-chs.readthedocs.io/zh_CN/chs/index.html)
+* [Celery](http://docs.jinkan.org/docs/celery/index.html)
 
 [返回目录](#目录)
 
