@@ -75,6 +75,8 @@
 * [postgresql中文社区](http://www.postgres.cn/index.php/v2/home)
 * [Fabric](https://fabric-chs.readthedocs.io/zh_CN/chs/index.html)
 * [Celery](http://docs.jinkan.org/docs/celery/index.html)
+* [numpy中文文档](https://www.numpy.org.cn/index.html)
+* [pandas中文文档](https://www.pypandas.cn/)
 
 [返回目录](#目录)
 
