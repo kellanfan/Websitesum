@@ -79,6 +79,7 @@
 * [numpy中文文档](https://www.numpy.org.cn/index.html)
 * [pandas中文文档](https://www.pypandas.cn/)
 * [ten minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+* [jquery API中文文档](http://jquery.cuishifeng.cn/)
 [返回目录](#目录)
 
 ## 网络
