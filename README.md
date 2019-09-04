@@ -30,7 +30,7 @@
 
 ## Python  
 * [Python官方文档](https://docs.python.org/2/library/index.html)  
-* [廖雪峰python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)  
+* [廖雪峰python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000) 
 * [python china](http://python-china.org)  
 * [分类Python](https://www.keakon.net/category/Python)  
 * [依云博客](http://blog.lilydjwg.me/tag/python)  
@@ -80,6 +80,8 @@
 * [pandas中文文档](https://www.pypandas.cn/)
 * [ten minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 * [jquery API中文文档](http://jquery.cuishifeng.cn/)
+* [BeautyfulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)
+* [Django Book 2.0](http://docs.30c.org/djangobook2/index.html)
 [返回目录](#目录)
 
 ## 网络
