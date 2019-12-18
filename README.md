@@ -58,6 +58,10 @@
 * [在线代码格式化](http://tool.oschina.net/codeformat/json)
 * [在线正则表达式测试](http://tool.oschina.net/regex/#)
 * [腾讯文档](https://docs.qq.com)
+* [json在线格式化](https://www.json.cn/)
+* [日事清](https://www.rishiqing.com/app/todo)
+* [logstash grok](https://github.com/logstash-plugins/logstash-patterns-core/tree/master/patterns)
+
 
 [返回目录](#目录)
 
