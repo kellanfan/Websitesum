@@ -36,7 +36,7 @@
 * [依云博客](http://blog.lilydjwg.me/tag/python)  
 * [python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)  
 * [菜鸟教程](http://www.runoob.com/)  
-
+* [PEP8 规范](https://www.python.org/dev/peps/pep-0008/)
 [返回目录](#目录)
 
 ## Linux
@@ -86,6 +86,9 @@
 * [jquery API中文文档](http://jquery.cuishifeng.cn/)
 * [BeautyfulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html)
 * [Django Book 2.0](http://docs.30c.org/djangobook2/index.html)
+* [Django 文档](https://docs.djangoproject.com/zh-hans/3.0/)
+* [HTML 文档](https://developer.mozilla.org/zh-CN/docs/learn/HTML/Introduction_to_HTML/Getting_started)
+
 [返回目录](#目录)
 
 ## 网络
