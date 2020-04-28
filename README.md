@@ -89,6 +89,7 @@
 * [Django 文档](https://docs.djangoproject.com/zh-hans/3.0/)
 * [HTML 文档](https://developer.mozilla.org/zh-CN/docs/learn/HTML/Introduction_to_HTML/Getting_started)
 * [pyecharts中文文档](http://pyecharts.org/#/zh-cn/)
+* [Cassandra教程](https://www.w3cschool.cn/cassandra/)
 
 [返回目录](#目录)
 
