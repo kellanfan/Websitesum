@@ -79,7 +79,7 @@
 * [Hadoop文档](http://hadoop.apache.org/docs/r1.0.4/cn/index.html)
 * [postgresql中文社区](http://www.postgres.cn/index.php/v2/home)
 * [Fabric](https://fabric-chs.readthedocs.io/zh_CN/chs/index.html)
-* [Celery](http://docs.jinkan.org/docs/celery/index.html)
+* [Celery](https://www.celerycn.io/ru-men/celery-jian-jie)
 * [numpy中文文档](https://www.numpy.org.cn/index.html)
 * [pandas中文文档](https://www.pypandas.cn/)
 * [ten minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
