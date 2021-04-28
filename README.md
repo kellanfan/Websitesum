@@ -91,6 +91,8 @@
 * [pyecharts中文文档](http://pyecharts.org/#/zh-cn/)
 * [Cassandra教程](https://www.w3cschool.cn/cassandra/)
 * [rabbitmq 中文文档](http://rabbitmq.mr-ping.com/)
+* [prometheus实战](https://www.bookstack.cn/read/prometheus_practice/introduction-README.md)
+* [Prometheus 中文文档](https://www.prometheus.wang/)
 
 [返回目录](#目录)
 
