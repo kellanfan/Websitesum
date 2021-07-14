@@ -26,6 +26,7 @@
 * [技术博客](#技术博客)
 * [技术文章](#技术文章)
 * [软件下载](#软件下载)
+
 [返回目录](#目录)
 
 ## Python  
@@ -37,6 +38,7 @@
 * [python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)  
 * [菜鸟教程](http://www.runoob.com/)  
 * [PEP8 规范](https://www.python.org/dev/peps/pep-0008/)
+
 [返回目录](#目录)
 
 ## Linux
@@ -93,6 +95,7 @@
 * [rabbitmq 中文文档](http://rabbitmq.mr-ping.com/)
 * [prometheus实战](https://www.bookstack.cn/read/prometheus_practice/introduction-README.md)
 * [Prometheus 中文文档](https://www.prometheus.wang/)
+* [zookeeper官方文档](https://zookeeper.apache.org)
 
 [返回目录](#目录)
 
